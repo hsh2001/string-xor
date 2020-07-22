@@ -1,5 +1,5 @@
 {
-  "name": "string-xor",
+  "name": "@hsh0084/string-xor",
   "version": "0.0.1",
   "description": "XOR operation for string in JavaScript",
   "main": "index.js",
